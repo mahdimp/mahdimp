@@ -1,4 +1,4 @@
-## Hi, I am Mahdi Madahpour (available for a remote job) 👋
+## Hi, I am Mahdi Madahpour  👋
 
 [![Gmail Badge](https://img.shields.io/badge/-mahdimp@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mahdi.mp@gmail.com)](mailto:mahdi.mp@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Mahdi%20Madahpour-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mahdimp/)](https://linkedin.com/in/mahdimp/) 
