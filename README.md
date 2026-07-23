@@ -17,7 +17,7 @@ and holding a suitcase, is a different problem from most frontend work.
  
 ### Working with
  
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,sass,python,fastapi,aws,docker,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,python,fastapi,aws,docker,git&theme=light)](https://skillicons.dev)
  
 Also day to day: Nx, RxJS, NgRx, Datadog.
  
